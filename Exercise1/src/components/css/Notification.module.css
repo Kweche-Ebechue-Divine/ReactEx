@@ -1,0 +1,9 @@
+.Notification{
+    font-size: 18px;
+    font-weight: 600;
+    background-color:rgb(54, 167, 75) ;
+    color:white;
+    padding:10px;
+    margin-bottom: 2px;
+    margin-top: 2px; 
+}

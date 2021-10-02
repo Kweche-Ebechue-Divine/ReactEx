@@ -1,0 +1,27 @@
+.header2 {
+    display: flex;
+    background-color:white;
+    color: gray;
+    font-size: 20px;
+    font-weight:300px ;
+    align-items: center;
+    height: 30px;
+    margin-bottom: auto;
+    margin-top: auto;
+    padding: 10px;  
+}
+
+ul {
+    list-style-type: none;
+    margin-right: 600px;
+    padding: 0;
+    overflow: hidden;
+  }
+
+  li {
+    
+    display: block;
+    color: rgb(5, 0, 0);
+    padding: 14px 16px;
+    text-decoration: none;
+  }

@@ -1,0 +1,18 @@
+.news {
+    background-color:rgba(245, 245, 245, 0.644);
+    color:gray;
+    font-size: 20px;
+    font-weight:700px ;
+    font-family: Sanomat;
+    background-color :white;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-right: auto;
+    padding-top:5px;
+    padding-right: 10px;
+    box-sizing: border-box;
+    border:1px solid gray;
+
+    
+   
+}
